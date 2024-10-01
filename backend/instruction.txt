@@ -1,0 +1,4 @@
+first run on backend : mongod --forst termina; 1
+then open new terminal : node server.js 3
+then open new terminal : npm run dev   4
+also connect the mongodbcompass 2
